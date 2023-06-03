@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+To start the app you need follow a few steps.
+To start the json-server: 
+1. In a new terminal type in this command -> npm run json-server
+2. You should see a headline Resources with a link -> http://localhost:7000/burgers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the app:
+1. In a new terminal type in this command -> npm start
+Now a new window should open and you should see the app.
 
-## Available Scripts
+To use the app: 
+You start on the landing page, here you can read a little about our vision at BunDrop.
+In the top right corner there is a navbar where you can navigate to "home", "menu" and "cart"
 
-In the project directory, you can run:
+To add an order to cart and see the menu:
+To place an order you need to navigate to menu. Here you will see our full selection of the burgers we make.
+To read more about the specific burger you're eyeing click on the burger card and it will navigate you to a detail page.
+On the detail page you can  select how many burgers of that type to add to your cart.
+Once you've added a burger to the cart you will be sent back to the menu where you can repeat the previous process if you want to add more food to your cart.
 
-### `npm start`
+To checkout and pay:
+Click on the "Cart" in the navbar.
+Here you will see a total of your order and how much it will cost. If you want to remove an item you can click on the trashcan and that burger with the amount will be removed from your order.
+If you feel satisfied with your order click on the purchase button and it will navigate you to checkout.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To pay:
+Select if you want to pay with card or swish
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+If you choose Card:
+Fill in all the inputs.
+Firstname and Lastname require at least 2 characters.
+Address must be filled in with at least 3 characters. 
+Streetnumber must be filled in with at least 1 character.
+City must be filled in with at least 3 characters
+Credit Card number required 16 digits, no more, no less. 
+And the CVC requires 3 digits. 
 
-### `npm test`
+If you choose Swish:
+Type in your mobile number, It needs to be 10 digits, no more, no less.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If the information you've typed is correct then you should automatically navigate to the confirmation page. Where you will get noticed on how long it will take before we deliver your order. 
 
-### `npm run build`
+We hope you've enjoyed your ordering process here at BunDrop and we are looking forward to see you here again!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
