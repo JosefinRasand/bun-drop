@@ -5,6 +5,7 @@ To start the json-server:
 
 To run the app:
 1. In a new terminal type in this command -> npm start
+
 Now a new window should open and you should see the app.
 
 To use the app: 
