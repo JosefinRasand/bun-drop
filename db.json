@@ -1,0 +1,76 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "name": "The Black Chicken",
+      "description": "Indulge in the tantalizing 'Black Chicken' burger - a flavor-packed delight with a black bun, crispy bacon, melted cheddar cheese, and a creamy mayo drizzle. A perfect harmony of boldness and taste awaits!",
+      "price": 129,
+      "isVegetarian": false,
+      "image": "burger1.png"
+    },
+    {
+      "id": 2,
+      "name": "The BLT Burger",
+      "description": "Experience the ultimate BLT burger: a juicy patty topped with crispy bacon, fresh lettuce, ripe tomatoes, and zesty mayo. A mouthwatering twist on the classic BLT sandwich, packed with flavor and satisfaction!",
+      "price": 129,
+      "isVegetarian": false,
+      "image": "burger2.png"
+    },
+    {
+      "id": 3,
+      "name": "The BunDrop Special",
+      "description": "Double the delight with our hearty burger featuring twin patties and a tantalizing hamburger dressing. Sink your teeth into this flavor-packed masterpiece, bursting with juicy goodness and a signature sauce that will leave you craving more!",
+      "price": 149,
+      "isVegetarian": false,
+      "image": "burger3.png"
+    },
+    {
+      "id": 4,
+      "name": "The Double Delight",
+      "description": "Indulge in the ultimate flavor explosion with our double patty burger, topped with savory cheddar cheese, crispy bacon, and fiery red peppers. Each bite is a symphony of mouthwatering goodness, combining juicy beef, rich cheese, smoky bacon, and a touch of spicy sweetness for an unforgettable burger experience!",
+      "price": 169,
+      "isVegetarian": false,
+      "image": "burger4.png"
+    },
+    {
+      "id": 5,
+      "name": "The Spicy Buffalo",
+      "description": "Savor the boldness of our double patty burger, layered with melted cheddar cheese and drizzled with zesty buffalo sauce. Every bite delivers a harmonious blend of succulent beef, creamy cheese, and a tangy kick that will ignite your taste buds. Get ready to experience burger bliss like never before!",
+      "price": 149,
+      "isVegetarian": false,
+      "image": "burger5.png"
+    },
+    {
+      "id": 6,
+      "name": "The Meatsplosion",
+      "description": "Prepare for meat lover's paradise with our towering burger featuring three juicy patties, melty cheese, fiery chili, fresh tomatoes, and our signature special sauce. Each bite delivers a carnivorous delight, with layers of succulent meat, bold flavors, and with our special BunDrop-sauce",
+      "price": 199,
+      "isVegetarian": false,
+      "image": "burger9.png"
+    },
+    {
+      "id": 7,
+      "name": "The Onion",
+      "description": "Experience burger bliss with our mouthwatering creation featuring a juicy patty with gooey American cheese, and crispy fried onions. Each bite is a symphony of flavors, combining juicy beef, creamy cheese, and the irresistible crunch of perfectly fried onions. Prepare for a tantalizing burger experience that will leave you craving more!",
+      "price": 139,
+      "isVegetarian": false,
+      "image": "burger7.png"
+    },
+    {
+      "id": 8,
+      "name": "The Plant Burger",
+      "description": "Indulge in the ultimate vegetarian delight: a plant-based burger featuring plant-based beef, smoky plant-based bacon, and melty vegan cheese. Experience the perfect harmony of flavors, with a juicy patty, sizzling bacon alternative, and creamy dairy-free cheese. This plant-powered burger is a delicious, guilt-free choice that satisfies both your cravings and ethical choices!",
+      "price": 139,
+      "isVegetarian": true,
+      "image": "burger8.png"
+    },
+    {
+      "id": 9,
+      "name": "The Spicy Buffalo",
+      "description": "Discover veggie perfection with our black bean patty burger. Savory black bean goodness, complemented by a medley of flavorful toppings, including melted cheddar cheese. Indulge in this meatless marvel that satisfies both taste buds and values, delivering a scrumptious plant-based delight you won't be able to resist!",
+      "price": 139,
+      "isVegetarian": true,
+      "image": "burger6.png"
+    }
+  ]
+}
